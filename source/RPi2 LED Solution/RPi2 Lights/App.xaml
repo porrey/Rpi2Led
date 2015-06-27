@@ -1,0 +1,7 @@
+﻿<Application x:Class="Porrey.RPi2.Lights.App"
+			 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+			 xmlns:local="using:Rpi2_Lights"
+			 RequestedTheme="Dark">
+
+</Application>
