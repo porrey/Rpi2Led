@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows.Devices.Gpio.Led", "Windows.Devices.Gpio.Led\Windows.Devices.Gpio.Led.csproj", "{DF797414-337A-4FDD-95CA-9267652B8959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPi2 LED", "RPi2 Lights\RPi2 LED.csproj", "{B236A3FD-C215-4859-87F8-C97C5C6F2A05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPi2 LED Demo", "RPi2 LED Demo\RPi2 LED Demo.csproj", "{B236A3FD-C215-4859-87F8-C97C5C6F2A05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
