@@ -1,2 +1,2 @@
 # rpi2led
-Provides a managed interface to the Raspberry Pi onboard LED's.
+Using the Raspberry Pi 2 LED's for Device Status.
