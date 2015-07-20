@@ -19,7 +19,7 @@
 					VerticalAlignment="Center">
 			<!-- Red Header -->
 			<TextBlock Grid.Row="0"
-					   Text="Red LED"
+					   Text="Red Power LED"
 					   Style="{ThemeResource HeaderTextBlockStyle}"
 					   HorizontalAlignment="Center"
 					   VerticalAlignment="Center"
@@ -69,7 +69,7 @@
 					VerticalAlignment="Center">
 			<!-- Green Header -->
 			<TextBlock Grid.Row="0"
-					   Text="Green LED"
+					   Text="Green Status LED"
 					   Style="{ThemeResource HeaderTextBlockStyle}"
 					   HorizontalAlignment="Center"
 					   VerticalAlignment="Center"
