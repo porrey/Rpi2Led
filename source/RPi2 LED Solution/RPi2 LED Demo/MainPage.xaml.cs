@@ -6,7 +6,7 @@ using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Navigation;
 
-namespace Porrey.RPi2.Lights
+namespace Porrey.RPi2.Led
 {
 	public sealed partial class MainPage : Page, INotifyPropertyChanged
 	{

@@ -5,7 +5,7 @@ using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Navigation;
 
-namespace Porrey.RPi2.Lights
+namespace Porrey.RPi2.Led
 {
 	sealed partial class App : Application
 	{
